@@ -40,7 +40,7 @@
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/camillacorreia/)
 
 
-🚀 From Camilla
+🚀 From Caio
 
 <!--
 **caiovinisl/caiovinisl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
