@@ -18,6 +18,9 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
+**Mobile**
+![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+
 **Design**
 ![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-430134?style=flat-square&logo=adobexd&logoColor=white)
