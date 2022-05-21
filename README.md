@@ -1,7 +1,7 @@
 ### Hi, I'm Caio Lopes 👋
 
 ### Sobre mim
-👩‍💻 UX Designer at @Cubos Academy
+👩‍💻 UX Designer at @CubosAcademy
 
 🎓 Graduando em Ciência da Computação na UFBA
 
