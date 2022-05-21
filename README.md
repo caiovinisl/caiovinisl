@@ -1,7 +1,7 @@
 ### Hi, I'm Caio Lopes 👋
 
 ### Sobre mim
-👩‍💻 Designer UX/UI at @erural
+👩‍💻 UX Designer at @Cubos Academy
 
 🎓 Graduando em Ciência da Computação na UFBA
 
