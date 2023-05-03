@@ -42,6 +42,12 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/camillacorreia/)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/camillacorreia/)
 
+### GitHub Stats ⚡
+<div>
+<a href="https://github.com/caiovinisl">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovinisl&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiovinisl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 🚀 From Caio
 
