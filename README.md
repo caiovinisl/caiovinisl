@@ -1,9 +1,17 @@
 ### Hi, I'm Caio Lopes 👋
 
 ### Sobre mim
-👩‍💻 UX Designer at @CubosAcademy
+👨‍💻 Atualmente eu trabalho como Gerente de Produto @ [Cubos Academy](https://cubos.academy/)
+
+💻 Eu sou UX Designer e Desenvolvedor Front-End
 
 🎓 Graduando em Ciência da Computação na UFBA
+
+🔎 Também sou curioso sobre educação, arte e economia criativa
+
+✒️ Eu gosto de no meu tempo livre dançar e escrever
+
+📚 Lendo: Storytelling com Dados
 
 ### 🛠️ Eu já trabalhei com...
 
@@ -27,16 +35,15 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
-**Design**
+### 📚 Estou estuando
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎨 Design
 ![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=for-the-badge&logo=figma)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-430134?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2F9FF2?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-F29200?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-
-### Estou estuando
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### GitHub Stats ⚡
 <div>
