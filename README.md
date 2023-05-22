@@ -7,7 +7,7 @@
 
 ### 🛠️ Eu já trabalhei com...
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+"[JavaScript](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 **Design**
