@@ -5,23 +5,10 @@
 
 🎓 Graduando em Ciência da Computação na UFBA
 
-### Conhecimento
-**Languages** 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/camillacorreia/)
-![TypeScript](https://img.shields.io/badge/-TypeScript-59C0EA?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Styled-components](https://img.shields.io/badge/-Styled%20Components-DBDBE0?style=flat-square&logo=styled-components)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)
-![Netlify](https://img.shields.io/badge/-Netlify-DBDBE0?style=flat-square&logo=netlify)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/camillacorreia/)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/camillacorreia/)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/camillacorreia/)
+### 🛠️ Eu já trabalhei com...
+
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
 
 **Design**
 ![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)
