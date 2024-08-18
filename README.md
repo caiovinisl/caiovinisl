@@ -1,7 +1,7 @@
 ### Hi, I'm Caio Lopes 👋
 
 ### Sobre mim
-👨‍💻 Atualmente eu trabalho como Gerente de Produto @ [Cubos Academy](https://cubos.academy/)
+👨‍💻 Atualmente eu trabalho como Product Designer @ [Caffeine Army](https://www.caffeinearmy.com.br/)
 
 💻 Eu sou UX Designer e Desenvolvedor Front-End
 
